@@ -34,7 +34,7 @@ app.use(csrf({ cookie: true }));
 app.use(express.static(path.join(__dirname, "public")));
 app.use(
   session({
-    secret: "secret-key-that-no-one-can-guess",
+    secret: "This-voting-app-has-been-made-by-Yash",
     cookie: { maxAge: 24 * 60 * 60 * 1000 }, // 24 hours
     resave: false,
     saveUninitialized: false,
