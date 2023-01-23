@@ -19,7 +19,7 @@ const login = async (agent, username, password) => {
   });
 };
 
-describe("Voting App", function () {
+describe("Voting App made by YASH", function () {
   beforeAll(async () => {
     await db.sequelize.sync({ force: true });
     server = app.listen(3000, () => {});
