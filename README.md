@@ -1,4 +1,4 @@
-# Voting-App
+# Voting Application
 
 This a simple, easy to use and open source online voting platform where you can host polls and elections.
 
