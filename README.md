@@ -18,3 +18,4 @@ This a simple, easy to use and open source online voting platform where you can 
 ## Use It
 
 #### 👉 [Try it out](https://wdl11n.onrender.com/)
+#### 👉 [demo](https://www.loom.com/share/f25ab05e90d244aeb762af9180c7d640)
